@@ -1,3 +1,4 @@
+if (typeof define !== 'function') { var define = require('amdefine')(module) }
 define(['./BespokeGenerator'],
 function(BespokeGenerator) {
 	'use strict';

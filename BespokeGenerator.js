@@ -1,3 +1,4 @@
+if (typeof define !== 'function') { var define = require('amdefine')(module) }
 define(function() {
 	// TODO: break impress helpers out into "common" generator directory
 	// right now we're taking advantage of the fact that we just so happen
